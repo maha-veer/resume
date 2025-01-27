@@ -59,4 +59,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 - **Font Awesome**: For the icons used for social media links.
 - **TypeIt.js**: For the animated typing effect in the hero section.
 
-Note: Feel Free to edit this template as per your need. 
+Note: Feel Free to edit this template as per your need. If you like the project leave a start ⭐ on the repogistry. 
